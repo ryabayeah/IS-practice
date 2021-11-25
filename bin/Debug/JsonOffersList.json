@@ -1,0 +1,3228 @@
+{
+    "officeList": [
+        {
+            "GeneralCharacteristics": {
+                "Price": 5000000,
+                "Adress": " пр-т. Ленина 50а",
+                "Location": "В центре",
+                "Square": 100
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 2,
+            "Floor": 1,
+            "CountOfWorkers": 15,
+            "CountOfRooms": 3
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 25000000,
+                "Adress": "пр-т. Ленина 119",
+                "Location": "В центре",
+                "Square": 230
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 3,
+            "Floor": 5,
+            "CountOfWorkers": 30,
+            "CountOfRooms": 6
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 17000000,
+                "Adress": "ул. Алексея Беленца 9а",
+                "Location": "В центре",
+                "Square": 150
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 5,
+            "Floor": 8,
+            "CountOfWorkers": 10,
+            "CountOfRooms": 3
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 24000000,
+                "Adress": "пр-т. Фрунзе 79",
+                "Location": "В центре",
+                "Square": 196
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 11,
+            "Floor": 2,
+            "CountOfWorkers": 17,
+            "CountOfRooms": 3
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 18000000,
+                "Adress": "ул. Гагарина 28",
+                "Location": "В центре",
+                "Square": 165
+            },
+            "Specifications": "Развитая",
+            "Parking": "Нет",
+            "Years": 4,
+            "Floor": 8,
+            "CountOfWorkers": 16,
+            "CountOfRooms": 3
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 29000000,
+                "Adress": "ул. Розы Люксембург 8",
+                "Location": "В центре",
+                "Square": 220
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 2,
+            "Floor": 5,
+            "CountOfWorkers": 30,
+            "CountOfRooms": 5
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 12000000,
+                "Adress": "пр-т. Фрунзе 12",
+                "Location": "В центре",
+                "Square": 111
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 12,
+            "Floor": 2,
+            "CountOfWorkers": 12,
+            "CountOfRooms": 3
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 22000000,
+                "Adress": "Иркутский тракт 79",
+                "Location": "Не в центре",
+                "Square": 176
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 5,
+            "Floor": 6,
+            "CountOfWorkers": 17,
+            "CountOfRooms": 4
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 14000000,
+                "Adress": "ул. Алексея Беленца 11",
+                "Location": "В центре",
+                "Square": 150
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 11,
+            "Floor": 8,
+            "CountOfWorkers": 14,
+            "CountOfRooms": 3
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 26000000,
+                "Adress": "пр-т. Ленина 16",
+                "Location": "В центре",
+                "Square": 199
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 4,
+            "Floor": 4,
+            "CountOfWorkers": 26,
+            "CountOfRooms": 4
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 17000000,
+                "Adress": "ул. Гагарина 8",
+                "Location": "В центре",
+                "Square": 154
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 12,
+            "Floor": 6,
+            "CountOfWorkers": 13,
+            "CountOfRooms": 3
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3000000,
+                "Adress": "пр-т. Мира 15",
+                "Location": "Не в центре",
+                "Square": 49
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 3,
+            "Floor": 2,
+            "CountOfWorkers": 2,
+            "CountOfRooms": 1
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 5000000,
+                "Adress": "ул. Говорова 41",
+                "Location": "Не в центре",
+                "Square": 95
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 10,
+            "Floor": 4,
+            "CountOfWorkers": 6,
+            "CountOfRooms": 3
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 10000000,
+                "Adress": "ул. Клюева 13",
+                "Location": "Не в центре",
+                "Square": 117
+            },
+            "Specifications": "Развитая",
+            "Parking": "Нет",
+            "Years": 9,
+            "Floor": 5,
+            "CountOfWorkers": 16,
+            "CountOfRooms": 5
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3000000,
+                "Adress": "ул. Карла Маркса 41",
+                "Location": "В центре",
+                "Square": 40
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 5,
+            "Floor": 3,
+            "CountOfWorkers": 3,
+            "CountOfRooms": 1
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 35000000,
+                "Adress": "ул. Нахановича 3",
+                "Location": "В центре",
+                "Square": 213
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 16,
+            "Floor": 4,
+            "CountOfWorkers": 20,
+            "CountOfRooms": 10
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 69000000,
+                "Adress": "ул. Крылова 28",
+                "Location": "В центре",
+                "Square": 240
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 6,
+            "Floor": 3,
+            "CountOfWorkers": 40,
+            "CountOfRooms": 12
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 74000000,
+                "Adress": "пр-т. Ленина  113",
+                "Location": "В центре",
+                "Square": 280
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 6,
+            "Floor": 4,
+            "CountOfWorkers": 53,
+            "CountOfRooms": 15
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2000000,
+                "Adress": "ул. 79-й Гвардейской Дивизии 12",
+                "Location": "Не в центре",
+                "Square": 35
+            },
+            "Specifications": "Развитая",
+            "Parking": "Нет",
+            "Years": 16,
+            "Floor": 1,
+            "CountOfWorkers": 2,
+            "CountOfRooms": 1
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3500000,
+                "Adress": "ул. Сергея Лазо 34",
+                "Location": "Не в центре",
+                "Square": 55
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 15,
+            "Floor": 7,
+            "CountOfWorkers": 4,
+            "CountOfRooms": 2
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 11000000,
+                "Adress": "ул. Источная 11",
+                "Location": "В центре",
+                "Square": 100
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 11,
+            "Floor": 4,
+            "CountOfWorkers": 8,
+            "CountOfRooms": 4
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 17000000,
+                "Adress": "ул. Яковлева 16",
+                "Location": "Не в центре",
+                "Square": 193
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 31,
+            "Floor": 3,
+            "CountOfWorkers": 9,
+            "CountOfRooms": 6
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 20000000,
+                "Adress": "Московский тракт  19",
+                "Location": "В центре",
+                "Square": 201
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 32,
+            "Floor": 6,
+            "CountOfWorkers": 13,
+            "CountOfRooms": 7
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 79000000,
+                "Adress": "ул. Мичурина 15",
+                "Location": "Не в центре",
+                "Square": 279
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 3,
+            "Floor": 4,
+            "CountOfWorkers": 55,
+            "CountOfRooms": 16
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 80000000,
+                "Adress": "пр-т. Ленина 74",
+                "Location": "В центре",
+                "Square": 252
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 25,
+            "Floor": 5,
+            "CountOfWorkers": 17,
+            "CountOfRooms": 7
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 25000000,
+                "Adress": "ул. Нахановича 36",
+                "Location": "В центре",
+                "Square": 230
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 0,
+            "Floor": 5,
+            "CountOfWorkers": 30,
+            "CountOfRooms": 9
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 990000,
+                "Adress": "ул. Ивана Черных 14",
+                "Location": "Не в центре",
+                "Square": 47
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 17,
+            "Floor": 7,
+            "CountOfWorkers": 4,
+            "CountOfRooms": 1
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 983000,
+                "Adress": "пр-т. Комсомольский 35",
+                "Location": "Не в центре",
+                "Square": 53
+            },
+            "Specifications": "Развитая",
+            "Parking": "Нет",
+            "Years": 11,
+            "Floor": 2,
+            "CountOfWorkers": 6,
+            "CountOfRooms": 2
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 5000000,
+                "Adress": "ул. Гагарина 28",
+                "Location": "В центре",
+                "Square": 102
+            },
+            "Specifications": "Развитая",
+            "Parking": "Нет",
+            "Years": 4,
+            "Floor": 6,
+            "CountOfWorkers": 11,
+            "CountOfRooms": 5
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3500000,
+                "Adress": "ул. Розы Люксембург 8",
+                "Location": "В центре",
+                "Square": 81
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 2,
+            "Floor": 2,
+            "CountOfWorkers": 6,
+            "CountOfRooms": 2
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2600000,
+                "Adress": "ул. Фрунзе 12",
+                "Location": "В центре",
+                "Square": 61
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 12,
+            "Floor": 1,
+            "CountOfWorkers": 5,
+            "CountOfRooms": 2
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1900000,
+                "Adress": "ул. Иркутский тракт 79",
+                "Location": "Не в центре",
+                "Square": 45
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 5,
+            "Floor": 6,
+            "CountOfWorkers": 3,
+            "CountOfRooms": 1
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 6000000,
+                "Adress": "ул. Алексея Беленца 11",
+                "Location": "В центре",
+                "Square": 55
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 11,
+            "Floor": 9,
+            "CountOfWorkers": 7,
+            "CountOfRooms": 2
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 6000000,
+                "Adress": "пр-т. Мира 41",
+                "Location": "Не в центре",
+                "Square": 20
+            },
+            "Specifications": "Развитая",
+            "Parking": "Нет",
+            "Years": 14,
+            "Floor": 4,
+            "CountOfWorkers": 2,
+            "CountOfRooms": 1
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 890000,
+                "Adress": "ул. Гагарина 8",
+                "Location": "В центре",
+                "Square": 26
+            },
+            "Specifications": "Неразвитая",
+            "Parking": "Есть",
+            "Years": 26,
+            "Floor": 6,
+            "CountOfWorkers": 2,
+            "CountOfRooms": 1
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 19000000,
+                "Adress": "пр-т. Мира 15",
+                "Location": "Не в центре",
+                "Square": 204
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 3,
+            "Floor": 3,
+            "CountOfWorkers": 14,
+            "CountOfRooms": 5
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 10000000,
+                "Adress": "пр-т. Ленина 50а",
+                "Location": "В центре",
+                "Square": 153
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 2,
+            "Floor": 1,
+            "CountOfWorkers": 15,
+            "CountOfRooms": 5
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 14000000,
+                "Adress": "пр-т. Ленина 119",
+                "Location": "В центре",
+                "Square": 200
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 3,
+            "Floor": 5,
+            "CountOfWorkers": 24,
+            "CountOfRooms": 6
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 17000000,
+                "Adress": "ул. Алексея Беленца 9а",
+                "Location": "В центре",
+                "Square": 150
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 5,
+            "Floor": 5,
+            "CountOfWorkers": 10,
+            "CountOfRooms": 2
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 42000000,
+                "Adress": "пр-т. Фрунзе 79",
+                "Location": "В центре",
+                "Square": 240
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 11,
+            "Floor": 5,
+            "CountOfWorkers": 37,
+            "CountOfRooms": 8
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 11000000,
+                "Adress": "ул. Гагарина 32",
+                "Location": "В центре",
+                "Square": 113
+            },
+            "Specifications": "Развитая",
+            "Parking": "Нет",
+            "Years": 13,
+            "Floor": 6,
+            "CountOfWorkers": 7,
+            "CountOfRooms": 4
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 700000,
+                "Adress": "ул. Розы Люксембург 87",
+                "Location": "В центре",
+                "Square": 29
+            },
+            "Specifications": "Неразвитая",
+            "Parking": "Есть",
+            "Years": 33,
+            "Floor": 1,
+            "CountOfWorkers": 2,
+            "CountOfRooms": 1
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 7000000,
+                "Adress": "пр-т. Фрунзе 12",
+                "Location": "В центре",
+                "Square": 76
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 12,
+            "Floor": 4,
+            "CountOfWorkers": 5,
+            "CountOfRooms": 2
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3000000,
+                "Adress": "Иркутский тракт 79",
+                "Location": "Не в центре",
+                "Square": 41
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 5,
+            "Floor": 6,
+            "CountOfWorkers": 5,
+            "CountOfRooms": 1
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 12000000,
+                "Adress": "ул. Мюнниха 7",
+                "Location": "Не в центре",
+                "Square": 150
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 13,
+            "Floor": 6,
+            "CountOfWorkers": 11,
+            "CountOfRooms": 3
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 20000000,
+                "Adress": "ул. Южная 19",
+                "Location": "В центре",
+                "Square": 171
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 4,
+            "Floor": 7,
+            "CountOfWorkers": 17,
+            "CountOfRooms": 5
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 17000000,
+                "Adress": "пер. Спортивный 16",
+                "Location": "В центре",
+                "Square": 157
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 12,
+            "Floor": 1,
+            "CountOfWorkers": 14,
+            "CountOfRooms": 3
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1500000,
+                "Adress": "пр-т. Мира 15",
+                "Location": "Не в центре",
+                "Square": 33
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 3,
+            "Floor": 1,
+            "CountOfWorkers": 2,
+            "CountOfRooms": 1
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 25000000,
+                "Adress": "пр-т. Ленина 50а",
+                "Location": "В центре",
+                "Square": 209
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 2,
+            "Floor": 5,
+            "CountOfWorkers": 32,
+            "CountOfRooms": 6
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 6000000,
+                "Adress": "ул. Смирнова 23",
+                "Location": "Не в центре",
+                "Square": 47
+            },
+            "Specifications": "Развитая",
+            "Parking": "Нет",
+            "Years": 27,
+            "Floor": 5,
+            "CountOfWorkers": 3,
+            "CountOfRooms": 1
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 13000000,
+                "Adress": "ул. Пушкина 48",
+                "Location": "Не в центре",
+                "Square": 150
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 5,
+            "Floor": 4,
+            "CountOfWorkers": 10,
+            "CountOfRooms": 3
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 87000000,
+                "Adress": "ул. Котовского 14",
+                "Location": "В центре",
+                "Square": 277
+            },
+            "Specifications": "Развитая",
+            "Parking": "Есть",
+            "Years": 6,
+            "Floor": 4,
+            "CountOfWorkers": 55,
+            "CountOfRooms": 10
+        }
+    ],
+
+    "houseList": [
+        {
+            "GeneralCharacteristics": {
+                "Price": 10000000,
+                "Adress": "Поселок Заварзино 11.1 км от города",
+                "Location": "За городом",
+                "Square": 120
+            },
+            "Floors": 2,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Бревенчатый",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 30000000,
+                "Adress": "Микрорайон Заречный 38.9 км от города",
+                "Location": "За городом",
+                "Square": 75
+            },
+            "Floors": 3,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Кирпичный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 12000000,
+                "Adress": "Деревня Лоскутово 16 км от города",
+                "Location": "За городом",
+                "Square": 140
+            },
+            "Floors": 2,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Средняя"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 8900000,
+                "Adress": "Село Богашево 21.1 км от города",
+                "Location": "За городом",
+                "Square": 145
+            },
+            "Floors": 2,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Бревенчатый",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 11500000,
+                "Adress": "Микрорайон Залесье 3 км от города",
+                "Location": "За городом",
+                "Square": 247
+            },
+            "Floors": 3,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Кирпичный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 6600000,
+                "Adress": "Поселок Синий Утёс 7 км от города",
+                "Location": "За городом",
+                "Square": 100
+            },
+            "Floors": 2,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Бревенчатый",
+            "Comunication": "Средняя"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3000000,
+                "Adress": "Поселок Мирный 14.5 км от города",
+                "Location": "За городом",
+                "Square": 227
+            },
+            "Floors": 2,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Нет",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Средняя"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 8000000,
+                "Adress": "Микрорайон Апрель 14.3 км от города",
+                "Location": "За городом",
+                "Square": 120
+            },
+            "Floors": 3,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Кирпичный",
+            "Comunication": "Средняя"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1900000,
+                "Adress": "Село Семилужки 29 км от города",
+                "Location": "За городом",
+                "Square": 120
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Кирпичный",
+            "Comunication": "Средняя"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 4700000,
+                "Adress": "Микрорайон Спичфабрика 12.1 км от города",
+                "Location": "За городом",
+                "Square": 45
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Кирпичный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 700000,
+                "Adress": "Поселок Синий Утёс 7 км от города",
+                "Location": "За городом",
+                "Square": 35
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Неразвитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Средняя"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 7000000,
+                "Adress": "Село Дзержинское 20 км от города",
+                "Location": "За городом",
+                "Square": 99
+            },
+            "Floors": 2,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Бревенчатый",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 500000,
+                "Adress": "Село Октябрьское 42 км от города",
+                "Location": "За городом",
+                "Square": 58
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 600000,
+                "Adress": "Село Богашево 21.1 км от города",
+                "Location": "За городом",
+                "Square": 35
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 850000,
+                "Adress": "Деревня Плотниково 40 км от города",
+                "Location": "За городом",
+                "Square": 25
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Неразвитая",
+            "Comfort": "Нет",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Средняя"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1500000,
+                "Adress": "Село Богашево 21.1 км от города",
+                "Location": "За городом",
+                "Square": 78
+            },
+            "Floors": 2,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Кирпичный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1600000,
+                "Adress": "Деревня Старая Шегарка 73 км от города",
+                "Location": "За городом",
+                "Square": 120
+            },
+            "Floors": 3,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Бревенчатый",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1760000,
+                "Adress": "Село Тахтамышево 29 км от города",
+                "Location": "За городом",
+                "Square": 37
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Средняя"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1800000,
+                "Adress": "Село Семилужки 39 км от города",
+                "Location": "За городом",
+                "Square": 77
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Неразвитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Кирпичный",
+            "Comunication": "Средняя"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1850000,
+                "Adress": "Поселок Копылово 20 км от города",
+                "Location": "За городом",
+                "Square": 48
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Кирпичный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 4500000,
+                "Adress": "Микрорайон Черемошники, ул. Шпальная 26",
+                "Location": "В городе",
+                "Square": 68
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Кирпичный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 16000000,
+                "Adress": "Микрорайон Телецентр, ул. Белая 12",
+                "Location": "В городе",
+                "Square": 300
+            },
+            "Floors": 3,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Кирпичный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 9270000,
+                "Adress": "Микрорайон Черемошники, ул. Шпальная 4",
+                "Location": "В городе",
+                "Square": 250
+            },
+            "Floors": 2,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Кирпичный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3000000,
+                "Adress": "Микрорайон Черемошники, ул. Каховская 34",
+                "Location": "В городе",
+                "Square": 44
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 5300000,
+                "Adress": "Микрорайон Радонежский, ул. Усть-Керепеть 91",
+                "Location": "В городе",
+                "Square": 119
+            },
+            "Floors": 2,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 4000000,
+                "Adress": "Микрорайон Черемошники, пер. Кузнецкий 1",
+                "Location": "В городе",
+                "Square": 80
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Бревенчатый",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2100000,
+                "Adress": "Ленинский район, ул. Розы Люксембург 115А",
+                "Location": "В городе",
+                "Square": 45
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Кирпичный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 5500000,
+                "Adress": "Октябрьский район, Горшковский переулок 9",
+                "Location": "В городе",
+                "Square": 90
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 8500000,
+                "Adress": "Микрорайон Кленовый, Вагонный переулок 9",
+                "Location": "В городе",
+                "Square": 213
+            },
+            "Floors": 2,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Кирпичный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1800000,
+                "Adress": "Микрорайон Кленовый, Дорожный переулок 35",
+                "Location": "В городе",
+                "Square": 40
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1800000,
+                "Adress": "Микрорайон Кленовый, Дорожный переулок 35",
+                "Location": "В городе",
+                "Square": 40
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2600000,
+                "Adress": "Микрорайон Черемошники, ул. Жигулевская 6",
+                "Location": "В городе",
+                "Square": 65
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 9200000,
+                "Adress": "Микрорайон Черемошники, ул. Батистовая 13",
+                "Location": "В городе",
+                "Square": 160
+            },
+            "Floors": 2,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Кирпичный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2000000,
+                "Adress": "Микрорайон Черемошники, пер. Ново-Станционный 16",
+                "Location": "В городе",
+                "Square": 42
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 6250000,
+                "Adress": "Советский район, ул. Максима Горького 33",
+                "Location": "В городе",
+                "Square": 225
+            },
+            "Floors": 2,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Кирпичный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 450000,
+                "Adress": "Микрорайон Степановка, ул. Богдана Хмельницкого 101",
+                "Location": "В городе",
+                "Square": 48
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Нет",
+            "TypeOfHouse": "Бревенчатый",
+            "Comunication": "Средняя"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 5100000,
+                "Adress": "Микрорайон Степановка, ул. Сиреневая 5",
+                "Location": "В городе",
+                "Square": 185
+            },
+            "Floors": 2,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 4500000,
+                "Adress": "Микрорайон Степановка, ул. Степная 36",
+                "Location": "В городе",
+                "Square": 45
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 5000000,
+                "Adress": "Микрорайон Степановка, ул. Богдана Хмельницкого 121",
+                "Location": "В городе",
+                "Square": 110
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Кирпичный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 450000,
+                "Adress": "Кировский район, ул. Советская 86",
+                "Location": "В городе",
+                "Square": 45
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Нет",
+            "TypeOfHouse": "Кирпичный",
+            "Comunication": "Средняя"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1300000,
+                "Adress": "Ленинский район, ул. Набережная реки Томи",
+                "Location": "В городе",
+                "Square": 51
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Средняя"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2500000,
+                "Adress": "Микрорайон Телецентр, ул. Ново-Ачинская 17",
+                "Location": "В городе",
+                "Square": 42
+            },
+            "Floors": 2,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Бревенчатый",
+            "Comunication": "Средняя"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3200000,
+                "Adress": "Микрорайон Черемошники, ул. Раздольная 24",
+                "Location": "В городе",
+                "Square": 150
+            },
+            "Floors": 2,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2650000,
+                "Adress": "Микрорайон Каштак-4, ул. Васюганская 1",
+                "Location": "В городе",
+                "Square": 45
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Бревенчатый",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3500000,
+                "Adress": "Микрорайон Томск-2, ул. Ново-Деповская 14",
+                "Location": "В городе",
+                "Square": 80
+            },
+            "Floors": 2,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Кирпичный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 4500000,
+                "Adress": "Микрорайон Томск-2, Новый переулок 10",
+                "Location": "В городе",
+                "Square": 62
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3800000,
+                "Adress": "Микрорайон Томск-2, Путевой переулок 14А",
+                "Location": "В городе",
+                "Square": 60
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Бревенчатый",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1150000,
+                "Adress": "Микрорайон Черемошники, ул. Профсоюзная 11",
+                "Location": "В городе",
+                "Square": 20
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Нет",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Средняя"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2600000,
+                "Adress": "Микрорайон Черемошники, ул. Правобережная 14",
+                "Location": "В городе",
+                "Square": 20
+            },
+            "Floors": 1,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Деревянный",
+            "Comunication": "Хорошая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2100000,
+                "Adress": "Микрорайон Черемошники, ул. Большая Подгорная 125",
+                "Location": "В городе",
+                "Square": 60
+            },
+            "Floors": 2,
+            "TransportAccessibility": "Развитая",
+            "Comfort": "Есть",
+            "TypeOfHouse": "Кирпичный",
+            "Comunication": "Хорошая"
+        }
+
+    ],
+    "apartmentList": [
+        {
+            "GeneralCharacteristics": {
+                "Price": 6000000,
+                "Adress": "ул. Советская 58",
+                "Location": "В городе",
+                "Square": 80
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 2,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 3,
+            "Years": 10,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 10,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 4000000,
+                "Adress": "пр. Фрунзе 8",
+                "Location": "В городе",
+                "Square": 75
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 5,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 3,
+            "Years": 12,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 8,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3000000,
+                "Adress": "ул. Никитина 2",
+                "Location": "В городе",
+                "Square": 60
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 3,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 2,
+            "Years": 20,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 5,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3500000,
+                "Adress": "ул. Бакунина 2",
+                "Location": "В городе",
+                "Square": 65
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 1,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 2,
+            "Years": 30,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 6,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 7000000,
+                "Adress": "пр. Ленина 68",
+                "Location": "В городе",
+                "Square": 72
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 3,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 3,
+            "Years": 40,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 5,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 6000000,
+                "Adress": "пр. Фрунзе 20",
+                "Location": "В городе",
+                "Square": 81
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 5,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 3,
+            "Years": 30,
+            "TypeOfBuilding": "Панельный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 7,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 5500000,
+                "Adress": "ул. Трифонова 24",
+                "Location": "В городе",
+                "Square": 68
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 4,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 2,
+            "Years": 25,
+            "TypeOfBuilding": "Панельный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 10,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 7000000,
+                "Adress": "ул. Гоголя 20",
+                "Location": "В городе",
+                "Square": 90
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 9,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 3,
+            "Years": 5,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Новостройка",
+            "Comfort": "Есть",
+            "MaxFloor": 15,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 5000000,
+                "Adress": "ул. Красновармейская 56",
+                "Location": "В городе",
+                "Square": 80
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 5,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 3,
+            "Years": 3,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Новостройка",
+            "Comfort": "Есть",
+            "MaxFloor": 6,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 4000000,
+                "Adress": "ул. Вершинина 7",
+                "Location": "В городе",
+                "Square": 60
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 5,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 3,
+            "Years": 20,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 10,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+
+
+        {
+            "GeneralCharacteristics": {
+                "Price": 1770000,
+                "Adress": "ул. Колхозная 11/1",
+                "Location": "В городе",
+                "Square": 23
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 1,
+            "TransportAccessibility": "Неразвитая",
+            "CountOfRooms": 2,
+            "Years": 20,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 5,
+            "Parking": "Нет",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1500000,
+                "Adress": "ул. 79-й Гвардейской дивизии 5",
+                "Location": "В городе",
+                "Square": 48
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 1,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 2,
+            "Years": 26,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 10,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1200000,
+                "Adress": "ул. Архитекторов 4",
+                "Location": "В городе",
+                "Square": 35
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 1,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 0,
+            "TypeOfBuilding": "Панельный",
+            "NewOrOld": "Новостройка",
+            "Comfort": "Есть",
+            "MaxFloor": 10,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1200000,
+                "Adress": "ул. Маяковского 20",
+                "Location": "В городе",
+                "Square": 40
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 1,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 0,
+            "TypeOfBuilding": "Панельный",
+            "NewOrOld": "Новостройка",
+            "Comfort": "Нет",
+            "MaxFloor": 20,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1200000,
+                "Adress": "ул. Ачинская 9",
+                "Location": "В городе",
+                "Square": 32
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 1,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 0,
+            "TypeOfBuilding": "Панельный",
+            "NewOrOld": "Новостройка",
+            "Comfort": "Нет",
+            "MaxFloor": 20,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2750000,
+                "Adress": "пер. Сергея Лазо 6/2",
+                "Location": "В городе",
+                "Square": 49
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 2,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 2,
+            "Years": 40,
+            "TypeOfBuilding": "Панельный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Нет",
+            "MaxFloor": 5,
+            "Parking": "Нет",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3950000,
+                "Adress": "ул. Архитекторов 8",
+                "Location": "В городе",
+                "Square": 45
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 6,
+            "TransportAccessibility": "Неразвитая",
+            "CountOfRooms": 1,
+            "Years": 8,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 17,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 8500000,
+                "Adress": "ул. Ачинская 9/1",
+                "Location": "В городе",
+                "Square": 86
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 2,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 3,
+            "Years": 8,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 5,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1330000,
+                "Adress": "ул. Транспортная 4",
+                "Location": "В городе",
+                "Square": 15
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 1,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 45,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Нет",
+            "MaxFloor": 5,
+            "Parking": "Нет",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3680000,
+                "Adress": "ул. Говорова 34",
+                "Location": "В городе",
+                "Square": 62
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 5,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 3,
+            "Years": 23,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 5,
+            "Parking": "Нет",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2700000,
+                "Adress": "пер. Богдана Хмельницкого 5/1",
+                "Location": "В городе",
+                "Square": 35
+            },
+            "Infrastructure": "Неразвитая",
+            "Floor": 9,
+            "TransportAccessibility": "Неразвитая",
+            "CountOfRooms": 1,
+            "Years": 25,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 16,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1490000,
+                "Adress": "ул. Первомайская 97",
+                "Location": "В городе",
+                "Square": 29
+            },
+            "Infrastructure": "Неразвитая",
+            "Floor": 4,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 10,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 4,
+            "Parking": "Нет",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 4000000,
+                "Adress": "пос. Апрель, пер.Горный 11/1",
+                "Location": "За городом",
+                "Square": 70
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 1,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 3,
+            "Years": 6,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 3,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1900000,
+                "Adress": "ул. Юрия Ковалева 32",
+                "Location": "В городе",
+                "Square": 20
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 1,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 5,
+            "TypeOfBuilding": "Панельный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 11,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2290000,
+                "Adress": "пос. Спутник ул. Первая 7",
+                "Location": "За городом",
+                "Square": 42
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 2,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 3,
+            "Years": 20,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 3,
+            "Parking": "Нет",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2800000,
+                "Adress": "просп. Комсомольский 44",
+                "Location": "В городе",
+                "Square": 31
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 1,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 35,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 9,
+            "Parking": "Нет",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3990000,
+                "Adress": "ул. Обручева 18",
+                "Location": "В городе",
+                "Square": 77
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 2,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 4,
+            "Years": 36,
+            "TypeOfBuilding": "Панельный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 9,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 7900000,
+                "Adress": "ул. Красноармейская 51/1",
+                "Location": "В городе",
+                "Square": 101
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 1,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 4,
+            "Years": 22,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 6,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 5800000,
+                "Adress": "ул. Алтайская 135",
+                "Location": "В городе",
+                "Square": 74
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 4,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 4,
+            "Years": 27,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 7,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 7000000,
+                "Adress": "ул. Артема 15",
+                "Location": "В городе",
+                "Square": 80
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 9,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 4,
+            "Years": 32,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 9,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3550000,
+                "Adress": "ул. Профсоюзная 20",
+                "Location": "В городе",
+                "Square": 61
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 5,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 4,
+            "Years": 47,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Нет",
+            "MaxFloor": 5,
+            "Parking": "Нет",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3750000,
+                "Adress": "пр. Мира 13",
+                "Location": "В городе",
+                "Square": 60
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 1,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 4,
+            "Years": 46,
+            "TypeOfBuilding": "Панельный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 5,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 4600000,
+                "Adress": "ул. Обручева 20",
+                "Location": "В городе",
+                "Square": 76
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 2,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 4,
+            "Years": 27,
+            "TypeOfBuilding": "Панельный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 9,
+            "Parking": "Нет",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 4100000,
+                "Adress": "ул. Бирюкова 26",
+                "Location": "В городе",
+                "Square": 77
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 4,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 4,
+            "Years": 27,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 10,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 6500000,
+                "Adress": "ул. Учебная 11",
+                "Location": "В городе",
+                "Square": 76
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 9,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 4,
+            "Years": 37,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 9,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 6220000,
+                "Adress": "пер. Шпальный 3",
+                "Location": "В городе",
+                "Square": 100
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 15,
+            "TransportAccessibility": "Неразвитая",
+            "CountOfRooms": 4,
+            "Years": 2,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Новостройка",
+            "Comfort": "Нет",
+            "MaxFloor": 18,
+            "Parking": "Нет",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 9200000,
+                "Adress": "ул. Марины Цветаевой 22",
+                "Location": "В городе",
+                "Square": 115
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 8,
+            "TransportAccessibility": "Неразвитая",
+            "CountOfRooms": 4,
+            "Years": 1,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Новостройка",
+            "Comfort": "Нет",
+            "MaxFloor": 9,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 5805000,
+                "Adress": "ул. Розы Люксембург",
+                "Location": "В городе",
+                "Square": 71
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 3,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 3,
+            "Years": 0,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Новостройка",
+            "Comfort": "Нет",
+            "MaxFloor": 16,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 4445400,
+                "Adress": "пер. Шпальный",
+                "Location": "В городе",
+                "Square": 72
+            },
+            "Infrastructure": "Неразвитая",
+            "Floor": 12,
+            "TransportAccessibility": "Неразвитая",
+            "CountOfRooms": 3,
+            "Years": 2,
+            "TypeOfBuilding": "Панельный",
+            "NewOrOld": "Новостройка",
+            "Comfort": "Нет",
+            "MaxFloor": 18,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3960000,
+                "Adress": "ул. Алтайская",
+                "Location": "В городе",
+                "Square": 68
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 8,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 2,
+            "Years": 0,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Новостройка",
+            "Comfort": "Нет",
+            "MaxFloor": 9,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 4030000,
+                "Adress": "пер. Шпальный 3",
+                "Location": "В городе",
+                "Square": 65
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 9,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 2,
+            "Years": 2,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Новостройка",
+            "Comfort": "Есть",
+            "MaxFloor": 9,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2000000,
+                "Adress": "пер. Артельный 7",
+                "Location": "В городе",
+                "Square": 35
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 12,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 1,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Новостройка",
+            "Comfort": "Нет",
+            "MaxFloor": 15,
+            "Parking": "Нет",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1900000,
+                "Adress": "ул. Нефтяная 15",
+                "Location": "В городе",
+                "Square": 27
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 3,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 4,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Новостройка",
+            "Comfort": "Есть",
+            "MaxFloor": 18,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2700000,
+                "Adress": "ул. Алтайская 107А",
+                "Location": "В городе",
+                "Square": 48
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 8,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 0,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Новостройка",
+            "Comfort": "Есть",
+            "MaxFloor": 17,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 21000000,
+                "Adress": "ул. Карла Маркса 3",
+                "Location": "В городе",
+                "Square": 173
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 5,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 5,
+            "Years": 11,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 5,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 14000000,
+                "Adress": "ул. Советская 84",
+                "Location": "В городе",
+                "Square": 170
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 4,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 20,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 6,
+            "Parking": "Нет",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 900000,
+                "Adress": "ул. Новороссийская 5",
+                "Location": "В городе",
+                "Square": 17
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 2,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 5,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 3,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 8000000,
+                "Adress": "ул. Северный городок 8",
+                "Location": "В городе",
+                "Square": 20
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 1,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 105,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 3,
+            "Parking": "Нет",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 8000000,
+                "Adress": "проезд Проектируемый 29",
+                "Location": "В городе",
+                "Square": 13
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 2,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 50,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 2,
+            "Parking": "Нет",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 8000000,
+                "Adress": "пр. Фрунзе 45",
+                "Location": "В городе",
+                "Square": 14
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 4,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 27,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 5,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 9990000,
+                "Adress": "с. Спутник ул. Ленина 5",
+                "Location": "За городом",
+                "Square": 36
+            },
+            "Infrastructure": "Неразвитая",
+            "Floor": 5,
+            "TransportAccessibility": "Неразвитая",
+            "CountOfRooms": 2,
+            "Years": 45,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 5,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 880000,
+                "Adress": "с. Тимирязеское ул. Карла Маркса 6",
+                "Location": "За городом",
+                "Square": 33
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 1,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 2,
+            "Years": 25,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 1,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 920000,
+                "Adress": "ул. Пролетарская 64",
+                "Location": "В городе",
+                "Square": 34
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 2,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 2,
+            "Years": 45,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Нет",
+            "MaxFloor": 3,
+            "Parking": "Нет",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 970000,
+                "Adress": "ул. Ново-Деповская 1-я",
+                "Location": "В городе",
+                "Square": 40
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 3,
+            "TransportAccessibility": "Неразвитая",
+            "CountOfRooms": 2,
+            "Years": 45,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Нет",
+            "MaxFloor": 6,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 700000,
+                "Adress": "ул. Красноармейская 45",
+                "Location": "В городе",
+                "Square": 19
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 1,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 2,
+            "Years": 45,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Нет",
+            "MaxFloor": 2,
+            "Parking": "Нет",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3800000,
+                "Adress": "с. Корнилово ул. Степная 30",
+                "Location": "За городом",
+                "Square": 125
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 1,
+            "TransportAccessibility": "Неразвитая",
+            "CountOfRooms": 4,
+            "Years": 30,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Нет",
+            "MaxFloor": 2,
+            "Parking": "Нет",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1400000,
+                "Adress": "с. Октябрьское, ул. Коммунистическая 74",
+                "Location": "За городом",
+                "Square": 76
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 2,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 3,
+            "Years": 20,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Нет",
+            "MaxFloor": 3,
+            "Parking": "Нет",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 800000,
+                "Adress": "с. Малиновка ул. Новая 3",
+                "Location": "За городом",
+                "Square": 74
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 2,
+            "TransportAccessibility": "Неразвитая",
+            "CountOfRooms": 4,
+            "Years": 35,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Нет",
+            "MaxFloor": 2,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 850000,
+                "Adress": "с. Богашево ул. Новостройка 5",
+                "Location": "За городом",
+                "Square": 25
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 3,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 38,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Нет",
+            "MaxFloor": 4,
+            "Parking": "Нет",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1000000,
+                "Adress": "с. Моряковский Затон ул. Ленина 15",
+                "Location": "За городом",
+                "Square": 33
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 2,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 20,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 5,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2750000,
+                "Adress": "п.Зональный ул.Зеленая 19",
+                "Location": "За городом",
+                "Square": 43
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 6,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 25,
+            "TypeOfBuilding": "Панельный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 7,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2750000,
+                "Adress": "п.Зональный ул.Осипова 7",
+                "Location": "За городом",
+                "Square": 43
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 1,
+            "TransportAccessibility": "Неразвитая",
+            "CountOfRooms": 1,
+            "Years": 10,
+            "TypeOfBuilding": "Панельный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 9,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2650000,
+                "Adress": "с. Кисловка ул. Мира 20",
+                "Location": "За городом",
+                "Square": 60
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 3,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 3,
+            "Years": 26,
+            "TypeOfBuilding": "Панельный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Нет",
+            "MaxFloor": 5,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 6500000,
+                "Adress": "ул. Цветаевой 3",
+                "Location": "За городом",
+                "Square": 71
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 3,
+            "TransportAccessibility": "Неразвитая",
+            "CountOfRooms": 1,
+            "Years": 5,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Есть",
+            "MaxFloor": 4,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1000000,
+                "Adress": "с.Заречный ул.Гоголя 5",
+                "Location": "За городом",
+                "Square": 70
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 1,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 45,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Нет",
+            "MaxFloor": 9,
+            "Parking": "Есть",
+            "View": "Есть"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 5265000,
+                "Adress": "п.Зональный ул.Спортивная 18",
+                "Location": "За городом",
+                "Square": 74
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 3,
+            "TransportAccessibility": "Неразвитая",
+            "CountOfRooms": 3,
+            "Years": 35,
+            "TypeOfBuilding": "Кирпичный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Нет",
+            "MaxFloor": 5,
+            "Parking": "Есть",
+            "View": "Нет"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2750000,
+                "Adress": "ул. Транспортная 4",
+                "Location": "В городе",
+                "Square": 15
+            },
+            "Infrastructure": "Развитая",
+            "Floor": 1,
+            "TransportAccessibility": "Развитая",
+            "CountOfRooms": 1,
+            "Years": 45,
+            "TypeOfBuilding": "Монолитный",
+            "NewOrOld": "Вторичка",
+            "Comfort": "Нет",
+            "MaxFloor": 5,
+            "Parking": "Нет",
+            "View": "Нет"
+        }
+    ],
+    "steadList": [
+        {
+            "GeneralCharacteristics": {
+                "Price": 600000,
+                "Adress": "Богашево",
+                "Location": "В области",
+                "Square": 20
+            },
+            "AdjacentTerritory": 3,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1500000,
+                "Adress": "Лоскутово",
+                "Location": "В области",
+                "Square": 50
+            },
+            "AdjacentTerritory": 7,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2000000,
+                "Adress": "Кисловка",
+                "Location": "В области",
+                "Square": 65
+            },
+            "AdjacentTerritory": 20,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 100000,
+                "Adress": "Светлый",
+                "Location": "В области",
+                "Square": 2
+            },
+            "AdjacentTerritory": 0,
+            "Ecology": "Средняя",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 300000,
+                "Adress": "Светлый",
+                "Location": "В области",
+                "Square": 5
+            },
+            "AdjacentTerritory": 10,
+            "Ecology": "Средняя",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1000000,
+                "Adress": "Богашево",
+                "Location": "В области",
+                "Square": 10
+            },
+            "AdjacentTerritory": 10,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1600000,
+                "Adress": "Богашево",
+                "Location": "В области",
+                "Square": 14
+            },
+            "AdjacentTerritory": 6,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2500000,
+                "Adress": "Тимирязево",
+                "Location": "В области",
+                "Square": 70
+            },
+            "AdjacentTerritory": 3,
+            "Ecology": "Средняя",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1000000,
+                "Adress": "Зональный",
+                "Location": "В области",
+                "Square": 25
+            },
+            "AdjacentTerritory": 2,
+            "Ecology": "Средняя",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2000000,
+                "Adress": "Заварзино",
+                "Location": "В области",
+                "Square": 40
+            },
+            "AdjacentTerritory": 5,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1300000,
+                "Adress": "Светлый",
+                "Location": "В области",
+                "Square": 30
+            },
+            "AdjacentTerritory": 15,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1500000,
+                "Adress": "Мельниково",
+                "Location": "В области",
+                "Square": 50
+            },
+            "AdjacentTerritory": 5,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1000000,
+                "Adress": "Корнилово",
+                "Location": "В области",
+                "Square": 10
+            },
+            "AdjacentTerritory": 2,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3500000,
+                "Adress": "Томск",
+                "Location": "В пригороде",
+                "Square": 25
+            },
+            "AdjacentTerritory": 7,
+            "Ecology": "Средняя",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 130000,
+                "Adress": "Петрово",
+                "Location": "В области",
+                "Square": 2
+            },
+            "AdjacentTerritory": 13,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 700000,
+                "Adress": "Романовка",
+                "Location": "В области",
+                "Square": 3
+            },
+            "AdjacentTerritory": 20,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 200000,
+                "Adress": "Романовка",
+                "Location": "В области",
+                "Square": 6
+            },
+            "AdjacentTerritory": 23,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1000000,
+                "Adress": "Корнилово",
+                "Location": "В области",
+                "Square": 25
+            },
+            "AdjacentTerritory": 7,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 300000,
+                "Adress": "Большое Протопопово",
+                "Location": "В области",
+                "Square": 7
+            },
+            "AdjacentTerritory": 3,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1200000,
+                "Adress": "Зональный",
+                "Location": "В области",
+                "Square": 4
+            },
+            "AdjacentTerritory": 1,
+            "Ecology": "Средняя",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 170000,
+                "Adress": "Апрель",
+                "Location": "В области",
+                "Square": 5
+            },
+            "AdjacentTerritory": 3,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 290000,
+                "Adress": "Киргизка",
+                "Location": "В области",
+                "Square": 2
+            },
+            "AdjacentTerritory": 1,
+            "Ecology": "Средняя",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1500000,
+                "Adress": "Шегарский тракт",
+                "Location": "В области",
+                "Square": 3
+            },
+            "AdjacentTerritory": 7,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1500000,
+                "Adress": "Кайдаловка",
+                "Location": "В пригороде",
+                "Square": 5
+            },
+            "AdjacentTerritory": 3,
+            "Ecology": "Средняя",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2000000,
+                "Adress": "Корнилово",
+                "Location": "В области",
+                "Square": 6
+            },
+            "AdjacentTerritory": 4,
+            "Ecology": "Средняя",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3500000,
+                "Adress": "Зональный",
+                "Location": "В пригороде",
+                "Square": 8
+            },
+            "AdjacentTerritory": 6,
+            "Ecology": "Средняя",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2600000,
+                "Adress": "Корнилово",
+                "Location": "В области",
+                "Square": 9
+            },
+            "AdjacentTerritory": 2,
+            "Ecology": "Средняяая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 500000,
+                "Adress": "Барабинка",
+                "Location": "В области",
+                "Square": 2
+            },
+            "AdjacentTerritory": 15,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 5600000,
+                "Adress": "Росинка",
+                "Location": "В области",
+                "Square": 25
+            },
+            "AdjacentTerritory": 10,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 410000,
+                "Adress": "Кисловка",
+                "Location": "В области",
+                "Square": 1
+            },
+            "AdjacentTerritory": 2,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 4500000,
+                "Adress": "Тимирязевское",
+                "Location": "В области",
+                "Square": 2
+            },
+            "AdjacentTerritory": 7,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 900000,
+                "Adress": "село Межининовка",
+                "Location": "В области",
+                "Square": 4
+            },
+            "AdjacentTerritory": 30,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 750000,
+                "Adress": "село Зоркальцево",
+                "Location": "В области",
+                "Square": 1
+            },
+            "AdjacentTerritory": 27,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1500000,
+                "Adress": "поселок Победа",
+                "Location": "В области",
+                "Square": 7
+            },
+            "AdjacentTerritory": 50,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1900000,
+                "Adress": "село Тимирязево",
+                "Location": "В области",
+                "Square": 11
+            },
+            "AdjacentTerritory": 3,
+            "Ecology": "Средняя",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2800000,
+                "Adress": "село Лучаново",
+                "Location": "В области",
+                "Square": 6
+            },
+            "AdjacentTerritory": 14,
+            "Ecology": "Средняя",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 3400000,
+                "Adress": "село Бакчар",
+                "Location": "В области",
+                "Square": 15
+            },
+            "AdjacentTerritory": 10,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 4000000,
+                "Adress": "село Октябрьское",
+                "Location": "В области",
+                "Square": 21
+            },
+            "AdjacentTerritory": 9,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1500000,
+                "Adress": "село Молчаново",
+                "Location": "В области",
+                "Square": 5
+            },
+            "AdjacentTerritory": 17,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1300000,
+                "Adress": "село Корнилово",
+                "Location": "В области",
+                "Square": 4
+            },
+            "AdjacentTerritory": 5,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 990000,
+                "Adress": "микрорайон Апрель",
+                "Location": "В области",
+                "Square": 1
+            },
+            "AdjacentTerritory": 2,
+            "Ecology": "Средняя",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1200000,
+                "Adress": "микрорайон Угольный",
+                "Location": "В пригороде",
+                "Square": 5
+            },
+            "AdjacentTerritory": 2,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 550000,
+                "Adress": "микрорайон Мокрушинский",
+                "Location": "В пригороде",
+                "Square": 4
+            },
+            "AdjacentTerritory": 2,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 2000000,
+                "Adress": "Коларовский тракт",
+                "Location": "В пригороде",
+                "Square": 18
+            },
+            "AdjacentTerritory": 5,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Не развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 250000,
+                "Adress": "Коларовский тракт",
+                "Location": "В пригороде",
+                "Square": 4
+            },
+            "AdjacentTerritory": 3,
+            "Ecology": "Средняя",
+            "TransportAccessibility": "Не развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1700000,
+                "Adress": "микрорайон Степановка",
+                "Location": "В пригороде",
+                "Square": 4
+            },
+            "AdjacentTerritory": 14,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1000000,
+                "Adress": "микрорайон Мокрушинский",
+                "Location": "В пригороде",
+                "Square": 2
+            },
+            "AdjacentTerritory": 12,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1000000,
+                "Adress": "микрорайон Штамово",
+                "Location": "В пригороде",
+                "Square": 4
+            },
+            "AdjacentTerritory": 2,
+            "Ecology": "Средняя",
+            "TransportAccessibility": "Развитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 800000,
+                "Adress": "микрорайон Кузовлево",
+                "Location": "В пригороде",
+                "Square": 1
+            },
+            "AdjacentTerritory": 3,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 120000,
+                "Adress": "село Корнилово",
+                "Location": "В области",
+                "Square": 2
+            },
+            "AdjacentTerritory": 1,
+            "Ecology": "Хорошая",
+            "TransportAccessibility": "Неразвитая"
+        },
+        {
+            "GeneralCharacteristics": {
+                "Price": 1200000,
+                "Adress": "микрорайон Кузовлево",
+                "Location": "В пригороде",
+                "Square": 2
+            },
+            "AdjacentTerritory": 3,
+            "Ecology": "Средняя",
+            "TransportAccessibility": "Неразвитая"
+        }
+    ],
+    "name": "readed"
+
+}
