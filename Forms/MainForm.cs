@@ -40,16 +40,6 @@ namespace IS_Lab_1
 			this.Hide();
 		}
 
-		//private void button1_Click_1(object sender, EventArgs e)
-		//{
-		//	string path = Directory.GetCurrentDirectory() + @"\JsonOffersList.json";
-		//	string jsonString = File.ReadAllText(path);
-		//	label1.Text = jsonString;
-		//	Offer OffersList;
-		//	OffersList = JsonSerializer.Deserialize<Offer>(jsonString);
-		//	label1.Text = OffersList.name;
-		//}
-
         private void officeButton_Click(object sender, EventArgs e)
         {
 			FindOfficeForm findForm = new FindOfficeForm();

@@ -12,12 +12,18 @@ namespace IS_Lab_1
             modelOfClientSted.GeneralCharacteristics = new RealEstate();
             this.FormClosing += FindSteadForm_FormClosing;
 
-            modelOfClientSted.GeneralCharacteristics.Price = 100000000;
-            modelOfClientSted.GeneralCharacteristics.Square = 1000000;
+            modelOfClientSted.GeneralCharacteristics.Price = 1000000;
+            modelOfClientSted.GeneralCharacteristics.Square = 0;
             modelOfClientSted.GeneralCharacteristics.Location = "В области";
-            modelOfClientSted.AdjacentTerritory = 5;
+            modelOfClientSted.AdjacentTerritory = 2;
             modelOfClientSted.Ecology = "Средняя";
             modelOfClientSted.TransportAccessibility = "Неразвитая";
+
+            PriceComboBox.SelectedItem = "< 1000000";
+            SquareComboBox.SelectedItem = "< 1 га";
+            LocationComboBox.SelectedItem = "В области";
+            NearTeritotyComboBox.SelectedItem = "1-2";
+
         }
 
         private void FindSteadForm_FormClosing(object sender, FormClosingEventArgs e)

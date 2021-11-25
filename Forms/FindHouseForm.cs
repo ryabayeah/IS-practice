@@ -12,14 +12,21 @@ namespace IS_Lab_1
 			modelOfClientHouse.GeneralCharacteristics = new RealEstate();
 			this.FormClosing += FindHouseForm_FormClosing;
 
-			modelOfClientHouse.GeneralCharacteristics.Price = 1000000000;
-			modelOfClientHouse.GeneralCharacteristics.Square = 1000000;
+			modelOfClientHouse.GeneralCharacteristics.Price = 1000000;
+			modelOfClientHouse.GeneralCharacteristics.Square = 0;
 			modelOfClientHouse.Comunication = "Средняя";
 			modelOfClientHouse.Comfort = "Нет";
 			modelOfClientHouse.Floors = 1;
 			modelOfClientHouse.TransportAccessibility = "Неразвитая";
-			modelOfClientHouse.TypeOfHouse = "Бревенчатый";
+			modelOfClientHouse.TypeOfHouse = "Деревянный";
 			modelOfClientHouse.GeneralCharacteristics.Location = "За городом";
+
+			PriceComboBox.SelectedItem = "< 1000000";
+			LocationComboBox.SelectedItem = "За городом";
+			TransportComboBox.SelectedItem = "Неразвитая";
+			TypeOfHouseComboBox.SelectedItem = "Деревянный";
+			SquareComboBox.SelectedItem = "< 80";
+			FloorComboBox.SelectedItem = "1";
 
 		}
 

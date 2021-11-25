@@ -19,20 +19,40 @@ namespace IS_Lab_1
             modelOfClientApartment.GeneralCharacteristics = new RealEstate();
             this.FormClosing += FindApartmentForm_FormClosing;
 
-            modelOfClientApartment.GeneralCharacteristics.Price = 100000000;
-            modelOfClientApartment.GeneralCharacteristics.Square = 10000;
-            modelOfClientApartment.GeneralCharacteristics.Location = "В городе";
-            modelOfClientApartment.CountOfRooms = 10;
-            modelOfClientApartment.Comfort = "Есть";
-            modelOfClientApartment.Floor = 2;
-            modelOfClientApartment.Infrastructure = "Неразвитая";
-            modelOfClientApartment.MaxFloor = 100;
-            modelOfClientApartment.NewOrOld = "Вторичка";
-            modelOfClientApartment.Parking = "Нет";
-            modelOfClientApartment.TransportAccessibility = "Неразвитая";
-            modelOfClientApartment.TypeOfBuilding = "Кирпичный";
-            modelOfClientApartment.View = "Нет";
+            modelOfClientApartment.GeneralCharacteristics.Price = 300000000;
+            modelOfClientApartment.GeneralCharacteristics.Square = 50;
             modelOfClientApartment.Years = 100;
+            modelOfClientApartment.Infrastructure = "Развитая";
+            modelOfClientApartment.TypeOfBuilding = "Монолитный";
+            modelOfClientApartment.CountOfRooms = 3;
+            modelOfClientApartment.Floor = 2;
+            modelOfClientApartment.GeneralCharacteristics.Location = "В городе";
+
+
+            modelOfClientApartment.NewOrOld = "Вторичка";
+            modelOfClientApartment.Parking = "Есть";
+            modelOfClientApartment.Comfort = "Есть";
+            modelOfClientApartment.View = "Есть";
+            modelOfClientApartment.TransportAccessibility = "Развитая";
+
+            modelOfClientApartment.MaxFloor = 100;
+
+
+
+
+            PriceComboBox.SelectedItem = "> 3000000";
+            SquareComboBox.SelectedItem = "50 - 100";
+            YearsComboBox.SelectedItem = "больше 30 лет";
+            InfastuctureComboBox.SelectedItem = "Развитая";
+            MaterialsComboBox.SelectedItem = "Монолитный";
+            CountOfRoomsComboBox.SelectedItem = "3";
+            FloorComboBox.SelectedItem = "От второго до предпоследнего";
+            LocationComboBox.SelectedItem = "В городе";
+
+            ParkingCheckBox.Checked = true;
+            ComfortCheckBox.Checked = true;
+            ViewCheckBox.Checked = true;
+            TransportСheckBox.Checked = true;
         }
 
         private void NextButton_Click(object sender, EventArgs e)
