@@ -33,16 +33,16 @@ namespace IS_Lab_1
 			{
 				foreach (var res in officeResult)
 				{
-					richTextBox1.Text += res.GeneralCharacteristics.Price.ToString() + "\n";
-					richTextBox1.Text += res.GeneralCharacteristics.Location + "\n";
-					richTextBox1.Text += res.GeneralCharacteristics.Adress + "\n";
-					richTextBox1.Text += res.GeneralCharacteristics.Square + " кв. м." + "\n";
-					richTextBox1.Text += res.Years + " лет" + "\n";
-					richTextBox1.Text += res.CountOfRooms.ToString() + " комнат" + "\n";
-					richTextBox1.Text += res.Floor.ToString() + " этаж" + "\n";
-					richTextBox1.Text += res.Specifications + " инфраструктура" + "\n";
-					richTextBox1.Text += res.Parking + " парковка" + "\n";
-					richTextBox1.Text += "...\n";
+					richTextBox1.Text += "Стоимость: " + res.GeneralCharacteristics.Price.ToString() + " руб." + "\n";
+					richTextBox1.Text += "Расположение: " + res.GeneralCharacteristics.Location + "\n";
+					richTextBox1.Text += "Адрес офиса: " + res.GeneralCharacteristics.Adress + "\n";
+					richTextBox1.Text += "Площадь офиса: " + res.GeneralCharacteristics.Square + " кв. м." + "\n";
+					richTextBox1.Text += "Возраст офиса: " + res.Years + " лет" + "\n";
+					richTextBox1.Text += "Количество комнат: " + res.CountOfRooms.ToString() + "\n";
+					richTextBox1.Text += "Этаж: " + res.Floor.ToString() + "\n";
+					richTextBox1.Text += "Инфраструктура: " + res.Specifications + "\n";
+					richTextBox1.Text += "Парковка: " + res.Parking;
+					richTextBox1.Text += "\n...\n";
 				}
 			}
 			else
@@ -60,15 +60,15 @@ namespace IS_Lab_1
 			{
 				foreach (var res in houseResult)
 				{
-					richTextBox1.Text += res.GeneralCharacteristics.Price.ToString() + "\n";
-					richTextBox1.Text += res.GeneralCharacteristics.Location + "\n";
-					richTextBox1.Text += res.GeneralCharacteristics.Adress + "\n";
-					richTextBox1.Text += res.GeneralCharacteristics.Square + " кв. м." + "\n";
-					richTextBox1.Text += res.Floors + " - количество этажей" + "\n";
-					richTextBox1.Text += res.Comfort + " удобства" + "\n";
-					richTextBox1.Text += res.Comunication + " комуникации" + "\n";
-					richTextBox1.Text += res.TransportAccessibility + " - транспортная доступность" + "\n";
-					richTextBox1.Text += res.TypeOfHouse + "\n";
+					richTextBox1.Text += "Стоимость: " + res.GeneralCharacteristics.Price.ToString() + " руб." + "\n";
+					richTextBox1.Text += "Локация: " + res.GeneralCharacteristics.Location + "\n";
+					richTextBox1.Text += "Местоположение: " + res.GeneralCharacteristics.Adress + "\n";
+					richTextBox1.Text += "Площадь: " + res.GeneralCharacteristics.Square + " кв. м." + "\n";
+					richTextBox1.Text += "Количество этажей: " + res.Floors + "\n";
+					richTextBox1.Text += "Удобства: " + res.Comfort + "\n";
+					richTextBox1.Text += "Комуникация: " + res.Comunication  + "\n";
+					richTextBox1.Text += "Транспортная доступность: " + res.TransportAccessibility + "\n";
+					richTextBox1.Text += "Тип дома: " + res.TypeOfHouse + "\n";
 					richTextBox1.Text += "...\n";
 				}
 			}
@@ -88,20 +88,20 @@ namespace IS_Lab_1
 			{
 				foreach (var res in apartmentResult)
 				{
-					richTextBox1.Text += res.GeneralCharacteristics.Price.ToString() + "\n";
-					richTextBox1.Text += res.GeneralCharacteristics.Location + "\n";
-					richTextBox1.Text += res.GeneralCharacteristics.Adress + "\n";
-					richTextBox1.Text += res.GeneralCharacteristics.Square + " кв. м." + "\n";
-					richTextBox1.Text += res.NewOrOld + "\n";
-					richTextBox1.Text += res.Floor + " этаж" + "\n";
-					richTextBox1.Text += res.MaxFloor + " - всего этажей" + "\n";
-					richTextBox1.Text += res.Comfort + " удобства" + "\n";
-					richTextBox1.Text += res.CountOfRooms + " количство комнат" + "\n";
-					richTextBox1.Text += res.TransportAccessibility + " транспортная доступность" + "\n";
-					richTextBox1.Text += res.TypeOfBuilding + "\n";
-					richTextBox1.Text += res.View + " красивый вид" + "\n";
-					richTextBox1.Text += res.Parking + " парковка" + "\n";
-					richTextBox1.Text += "...\n";
+					richTextBox1.Text += "Стоимость: " + res.GeneralCharacteristics.Price.ToString() + " руб." + "\n";
+					richTextBox1.Text += "Местоположение: " + res.GeneralCharacteristics.Location + "\n";
+					richTextBox1.Text += "Адрес: " + res.GeneralCharacteristics.Adress + "\n";
+					richTextBox1.Text += "Площадь: " + res.GeneralCharacteristics.Square + " кв. м." + "\n";
+					richTextBox1.Text += "Состояние: " + res.NewOrOld + "\n";
+					richTextBox1.Text += "Этаж: " + res.Floor+ "\n";
+					richTextBox1.Text += "Всего этажей: " + res.MaxFloor + "\n";
+					richTextBox1.Text += "Удобства: " + res.Comfort + "\n";
+					richTextBox1.Text += "Количство комнат: " + res.CountOfRooms + "\n";
+					richTextBox1.Text += "Транспортная доступность: " + res.TransportAccessibility + "\n";
+					richTextBox1.Text += "Тип здания: " + res.TypeOfBuilding + "\n";
+					richTextBox1.Text += "Красивый вид:" + res.View + "\n";
+					richTextBox1.Text += "Парковка: " + res.Parking;
+					richTextBox1.Text += "\n...\n";
 				}
 			}
 			else
@@ -120,13 +120,13 @@ namespace IS_Lab_1
 			{
 				foreach (var res in steadResult)
 				{
-					richTextBox1.Text += res.GeneralCharacteristics.Price.ToString() + "\n";
-					richTextBox1.Text += res.GeneralCharacteristics.Location + "\n";
-					richTextBox1.Text += res.GeneralCharacteristics.Adress + "\n";
-					richTextBox1.Text += res.GeneralCharacteristics.Square + " га." + "\n";
-					richTextBox1.Text += res.AdjacentTerritory + " км. - прилежащая территория" + "\n";
-					richTextBox1.Text += res.Ecology + " экология" + "\n";
-					richTextBox1.Text += res.TransportAccessibility + " - транспортная доступность" + "\n";
+					richTextBox1.Text += "Стоимость: " + res.GeneralCharacteristics.Price.ToString() + " руб." + "\n";
+					richTextBox1.Text += "Локация: " + res.GeneralCharacteristics.Location + "\n";
+					richTextBox1.Text += "Местоположение: " + res.GeneralCharacteristics.Adress + "\n";
+					richTextBox1.Text += "Площадь: " + res.GeneralCharacteristics.Square + " га." + "\n";
+					richTextBox1.Text += "Прилегающая территория " + res.AdjacentTerritory + " км." + "\n";
+					richTextBox1.Text += "Экология: " + res.Ecology + "\n";
+					richTextBox1.Text += "Транспортная доступность: " + res.TransportAccessibility + "\n";
 					richTextBox1.Text += "...\n";
 
 				}

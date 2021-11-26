@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System;
 
 namespace IS_Lab_1
 {
@@ -108,6 +109,7 @@ namespace IS_Lab_1
 		}
 		private static bool CheckApartmentCharacteristics(Apartment clientModel, Apartment listModel)
 		{
+
 			if (clientModel.TransportAccessibility == listModel.TransportAccessibility
 				&& clientModel.Comfort == listModel.Comfort &&
 				clientModel.Infrastructure == listModel.Infrastructure
@@ -116,7 +118,9 @@ namespace IS_Lab_1
 				clientModel.View == listModel.View &&
 				clientModel.Years >= listModel.Years &&
 				clientModel.NewOrOld == listModel.NewOrOld &&
-				(clientModel.Floor == listModel.Floor || (clientModel.Floor == 2 && (listModel.Floor >= 2 && listModel.Floor < listModel.MaxFloor)) || (clientModel.Floor == 3 && listModel.Floor == listModel.MaxFloor)))
+				(((clientModel.Floor == 1) && (listModel.Floor == 1)) || 
+				((clientModel.Floor == 2) && ((listModel.Floor >= 2) && (listModel.Floor < listModel.MaxFloor))) || 
+				((clientModel.Floor == 3) && (listModel.Floor == listModel.MaxFloor))))
 			{
 				return true;
 			}

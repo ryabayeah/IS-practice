@@ -19,14 +19,26 @@ namespace IS_Lab_1
             modelOfClientOffice.GeneralCharacteristics = new RealEstate();
 			this.FormClosing += FindOfficeForm_FormClosing;
 
+
+			modelOfClientOffice.GeneralCharacteristics.Price = 3000000;
+			modelOfClientOffice.GeneralCharacteristics.Square = 0;
+			modelOfClientOffice.Years = 0;
+			modelOfClientOffice.Specifications = "Развитая";
 			modelOfClientOffice.CountOfRooms = 1;
-			modelOfClientOffice.CountOfWorkers = 5;
 			modelOfClientOffice.Floor = 1;
+			modelOfClientOffice.CountOfWorkers = 5;
 			modelOfClientOffice.Parking = "Нет";
-			modelOfClientOffice.Specifications = "Нет";
-			modelOfClientOffice.Years = 100;
-			modelOfClientOffice.GeneralCharacteristics.Price = 100000000;
-			modelOfClientOffice.GeneralCharacteristics.Square = 100000;
+
+
+
+			PriceComboBox.SelectedItem = "1000000 - 3000000";
+			SquareComboBox.SelectedItem = "< 50";
+			YearsComboBox.SelectedItem = "Еще строится";
+			InfastuctureComboBox.SelectedItem = "Развитая";
+			CountOfRoomsComboBox.SelectedItem = "1 - 2";
+			FloorComboBox.SelectedItem = "1";
+			CountOfWorkersComboBox.SelectedItem = "до 10";
+			LocationComboBox.SelectedItem = "Не в центре";
 		}
 
 		private void FindOfficeForm_FormClosing(object sender, FormClosingEventArgs e)
@@ -170,18 +182,19 @@ namespace IS_Lab_1
 			}
 		}
 
-        private void NextButton_Click(object sender, EventArgs e)
-        {
-			ResultForm resultForm = new ResultForm(modelOfClientOffice);
-			resultForm.Show();
-		}
 
         private void LocationComboBox_SelectedIndexChanged(object sender, EventArgs e)
         {
 			modelOfClientOffice.GeneralCharacteristics.Location = LocationComboBox.SelectedItem.ToString();
 		}
 
-        private void GoBackButton_Click(object sender, EventArgs e)
+		private void NextButton_Click(object sender, EventArgs e)
+		{
+			ResultForm resultForm = new ResultForm(modelOfClientOffice);
+			resultForm.Show();
+		}
+
+		private void GoBackButton_Click(object sender, EventArgs e)
         {
 			MainForm mainForm = new MainForm();
 			mainForm.Show();
