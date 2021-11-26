@@ -122,7 +122,6 @@ namespace IS_Lab_1
 				((clientModel.Floor == 2) && ((listModel.Floor >= 2) && (listModel.Floor < listModel.MaxFloor))) || 
 				((clientModel.Floor == 3) && (listModel.Floor == listModel.MaxFloor))))
 			{
-				Console.WriteLine(clientModel.Floor + " " + listModel.Floor + " " + listModel.MaxFloor);
 				return true;
 			}
 			return false;
