@@ -100,16 +100,16 @@ namespace IS_Lab_1
             this.ComunicationCheckBox.Font = new System.Drawing.Font("Calibri", 12F);
             this.ComunicationCheckBox.Location = new System.Drawing.Point(643, 127);
             this.ComunicationCheckBox.Name = "ComunicationCheckBox";
-            this.ComunicationCheckBox.Size = new System.Drawing.Size(149, 28);
+            this.ComunicationCheckBox.Size = new System.Drawing.Size(163, 28);
             this.ComunicationCheckBox.TabIndex = 21;
-            this.ComunicationCheckBox.Text = "Комуникация";
+            this.ComunicationCheckBox.Text = "Коммуникация";
             this.ComunicationCheckBox.UseVisualStyleBackColor = true;
             this.ComunicationCheckBox.CheckedChanged += new System.EventHandler(this.ComunicationCheckBox_CheckedChanged);
             // 
             // TransportComboBox
             // 
             this.TransportComboBox.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.TransportComboBox.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.TransportComboBox.ForeColor = System.Drawing.SystemColors.MenuText;
             this.TransportComboBox.FormattingEnabled = true;
             this.TransportComboBox.Items.AddRange(new object[] {
             "Развитая",
@@ -134,7 +134,7 @@ namespace IS_Lab_1
             // TypeOfHouseComboBox
             // 
             this.TypeOfHouseComboBox.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.TypeOfHouseComboBox.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.TypeOfHouseComboBox.ForeColor = System.Drawing.SystemColors.MenuText;
             this.TypeOfHouseComboBox.FormattingEnabled = true;
             this.TypeOfHouseComboBox.Items.AddRange(new object[] {
             "Деревянный",
@@ -172,7 +172,7 @@ namespace IS_Lab_1
             // LocationComboBox
             // 
             this.LocationComboBox.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.LocationComboBox.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.LocationComboBox.ForeColor = System.Drawing.SystemColors.MenuText;
             this.LocationComboBox.FormattingEnabled = true;
             this.LocationComboBox.Items.AddRange(new object[] {
             "В городе",
@@ -187,7 +187,7 @@ namespace IS_Lab_1
             // FloorComboBox
             // 
             this.FloorComboBox.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.FloorComboBox.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.FloorComboBox.ForeColor = System.Drawing.SystemColors.MenuText;
             this.FloorComboBox.FormattingEnabled = true;
             this.FloorComboBox.Items.AddRange(new object[] {
             "1",
@@ -225,7 +225,7 @@ namespace IS_Lab_1
             // SquareComboBox
             // 
             this.SquareComboBox.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.SquareComboBox.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.SquareComboBox.ForeColor = System.Drawing.SystemColors.MenuText;
             this.SquareComboBox.FormattingEnabled = true;
             this.SquareComboBox.Items.AddRange(new object[] {
             "< 80",
@@ -241,7 +241,7 @@ namespace IS_Lab_1
             // PriceComboBox
             // 
             this.PriceComboBox.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.PriceComboBox.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.PriceComboBox.ForeColor = System.Drawing.SystemColors.MenuText;
             this.PriceComboBox.FormattingEnabled = true;
             this.PriceComboBox.Items.AddRange(new object[] {
             "< 1000000",

@@ -30,6 +30,7 @@ namespace IS_Lab_1
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.EcologyCheckBox = new System.Windows.Forms.CheckBox();
             this.TransportCheckBox = new System.Windows.Forms.CheckBox();
             this.LocationComboBox = new System.Windows.Forms.ComboBox();
             this.NearTeritotyComboBox = new System.Windows.Forms.ComboBox();
@@ -41,7 +42,6 @@ namespace IS_Lab_1
             this.ChoosePriceLabel = new System.Windows.Forms.Label();
             this.NextButton = new System.Windows.Forms.Button();
             this.GoBackButton = new System.Windows.Forms.Button();
-            this.EcologyCheckBox = new System.Windows.Forms.CheckBox();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -62,6 +62,18 @@ namespace IS_Lab_1
             this.panel1.Size = new System.Drawing.Size(609, 256);
             this.panel1.TabIndex = 3;
             // 
+            // EcologyCheckBox
+            // 
+            this.EcologyCheckBox.AutoSize = true;
+            this.EcologyCheckBox.Font = new System.Drawing.Font("Calibri", 12F);
+            this.EcologyCheckBox.Location = new System.Drawing.Point(328, 205);
+            this.EcologyCheckBox.Name = "EcologyCheckBox";
+            this.EcologyCheckBox.Size = new System.Drawing.Size(227, 28);
+            this.EcologyCheckBox.TabIndex = 17;
+            this.EcologyCheckBox.Text = "Экологическая чистота";
+            this.EcologyCheckBox.UseVisualStyleBackColor = true;
+            this.EcologyCheckBox.CheckedChanged += new System.EventHandler(this.EcologyCheckBox_CheckedChanged);
+            // 
             // TransportCheckBox
             // 
             this.TransportCheckBox.AutoSize = true;
@@ -77,7 +89,7 @@ namespace IS_Lab_1
             // LocationComboBox
             // 
             this.LocationComboBox.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.LocationComboBox.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.LocationComboBox.ForeColor = System.Drawing.SystemColors.MenuText;
             this.LocationComboBox.FormattingEnabled = true;
             this.LocationComboBox.Items.AddRange(new object[] {
             "В пригороде",
@@ -92,7 +104,7 @@ namespace IS_Lab_1
             // NearTeritotyComboBox
             // 
             this.NearTeritotyComboBox.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.NearTeritotyComboBox.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.NearTeritotyComboBox.ForeColor = System.Drawing.SystemColors.MenuText;
             this.NearTeritotyComboBox.FormattingEnabled = true;
             this.NearTeritotyComboBox.Items.AddRange(new object[] {
             "1-2",
@@ -129,7 +141,7 @@ namespace IS_Lab_1
             // SquareComboBox
             // 
             this.SquareComboBox.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.SquareComboBox.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.SquareComboBox.ForeColor = System.Drawing.SystemColors.MenuText;
             this.SquareComboBox.FormattingEnabled = true;
             this.SquareComboBox.Items.AddRange(new object[] {
             "< 1 га",
@@ -145,8 +157,9 @@ namespace IS_Lab_1
             // 
             // PriceComboBox
             // 
+            this.PriceComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.PriceComboBox.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.PriceComboBox.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.PriceComboBox.ForeColor = System.Drawing.SystemColors.MenuText;
             this.PriceComboBox.FormattingEnabled = true;
             this.PriceComboBox.Items.AddRange(new object[] {
             "< 1000000",
@@ -157,7 +170,6 @@ namespace IS_Lab_1
             this.PriceComboBox.Name = "PriceComboBox";
             this.PriceComboBox.Size = new System.Drawing.Size(231, 29);
             this.PriceComboBox.TabIndex = 8;
-            this.PriceComboBox.Text = "Укажите бюджет...";
             this.PriceComboBox.SelectedIndexChanged += new System.EventHandler(this.PriceComboBox_SelectedIndexChanged);
             // 
             // SquareLabel
@@ -203,18 +215,6 @@ namespace IS_Lab_1
             this.GoBackButton.Text = "Назад";
             this.GoBackButton.UseVisualStyleBackColor = true;
             this.GoBackButton.Click += new System.EventHandler(this.GoBackButton_Click);
-            // 
-            // EcologyCheckBox
-            // 
-            this.EcologyCheckBox.AutoSize = true;
-            this.EcologyCheckBox.Font = new System.Drawing.Font("Calibri", 12F);
-            this.EcologyCheckBox.Location = new System.Drawing.Point(328, 205);
-            this.EcologyCheckBox.Name = "EcologyCheckBox";
-            this.EcologyCheckBox.Size = new System.Drawing.Size(227, 28);
-            this.EcologyCheckBox.TabIndex = 17;
-            this.EcologyCheckBox.Text = "Экологическая чистота";
-            this.EcologyCheckBox.UseVisualStyleBackColor = true;
-            this.EcologyCheckBox.CheckedChanged += new System.EventHandler(this.EcologyCheckBox_CheckedChanged);
             // 
             // FindSteadForm
             // 

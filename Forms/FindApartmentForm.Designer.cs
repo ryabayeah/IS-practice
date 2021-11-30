@@ -32,6 +32,10 @@ namespace IS_Lab_1
             this.NextButton = new System.Windows.Forms.Button();
             this.GoBackButton = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.NewOrOldcheckBox = new System.Windows.Forms.CheckBox();
+            this.TransportСheckBox = new System.Windows.Forms.CheckBox();
+            this.ViewCheckBox = new System.Windows.Forms.CheckBox();
+            this.ComfortCheckBox = new System.Windows.Forms.CheckBox();
             this.ParkingCheckBox = new System.Windows.Forms.CheckBox();
             this.CountOfRoomsComboBox = new System.Windows.Forms.ComboBox();
             this.LocationComboBox = new System.Windows.Forms.ComboBox();
@@ -49,10 +53,6 @@ namespace IS_Lab_1
             this.label2 = new System.Windows.Forms.Label();
             this.SquareLabel = new System.Windows.Forms.Label();
             this.ChoosePriceLabel = new System.Windows.Forms.Label();
-            this.ComfortCheckBox = new System.Windows.Forms.CheckBox();
-            this.ViewCheckBox = new System.Windows.Forms.CheckBox();
-            this.TransportСheckBox = new System.Windows.Forms.CheckBox();
-            this.NewOrOldcheckBox = new System.Windows.Forms.CheckBox();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -108,6 +108,54 @@ namespace IS_Lab_1
             this.panel1.Size = new System.Drawing.Size(911, 338);
             this.panel1.TabIndex = 19;
             // 
+            // NewOrOldcheckBox
+            // 
+            this.NewOrOldcheckBox.AutoSize = true;
+            this.NewOrOldcheckBox.Font = new System.Drawing.Font("Calibri", 12F);
+            this.NewOrOldcheckBox.Location = new System.Drawing.Point(643, 44);
+            this.NewOrOldcheckBox.Name = "NewOrOldcheckBox";
+            this.NewOrOldcheckBox.Size = new System.Drawing.Size(144, 28);
+            this.NewOrOldcheckBox.TabIndex = 20;
+            this.NewOrOldcheckBox.Text = "Новостройка";
+            this.NewOrOldcheckBox.UseVisualStyleBackColor = false;
+            this.NewOrOldcheckBox.CheckedChanged += new System.EventHandler(this.NewOrOldcheckBox_CheckedChanged);
+            // 
+            // TransportСheckBox
+            // 
+            this.TransportСheckBox.AutoSize = true;
+            this.TransportСheckBox.Font = new System.Drawing.Font("Calibri", 12F);
+            this.TransportСheckBox.Location = new System.Drawing.Point(643, 292);
+            this.TransportСheckBox.Name = "TransportСheckBox";
+            this.TransportСheckBox.Size = new System.Drawing.Size(260, 28);
+            this.TransportСheckBox.TabIndex = 19;
+            this.TransportСheckBox.Text = "Транспортная доступность";
+            this.TransportСheckBox.UseVisualStyleBackColor = true;
+            this.TransportСheckBox.CheckedChanged += new System.EventHandler(this.TransportСheckBox_CheckedChanged);
+            // 
+            // ViewCheckBox
+            // 
+            this.ViewCheckBox.AutoSize = true;
+            this.ViewCheckBox.Font = new System.Drawing.Font("Calibri", 12F);
+            this.ViewCheckBox.Location = new System.Drawing.Point(643, 230);
+            this.ViewCheckBox.Name = "ViewCheckBox";
+            this.ViewCheckBox.Size = new System.Drawing.Size(154, 28);
+            this.ViewCheckBox.TabIndex = 18;
+            this.ViewCheckBox.Text = "Красивый вид";
+            this.ViewCheckBox.UseVisualStyleBackColor = true;
+            this.ViewCheckBox.CheckedChanged += new System.EventHandler(this.ViewCheckBox_CheckedChanged);
+            // 
+            // ComfortCheckBox
+            // 
+            this.ComfortCheckBox.AutoSize = true;
+            this.ComfortCheckBox.Font = new System.Drawing.Font("Calibri", 12F);
+            this.ComfortCheckBox.Location = new System.Drawing.Point(643, 168);
+            this.ComfortCheckBox.Name = "ComfortCheckBox";
+            this.ComfortCheckBox.Size = new System.Drawing.Size(177, 28);
+            this.ComfortCheckBox.TabIndex = 17;
+            this.ComfortCheckBox.Text = "Наличие удобств";
+            this.ComfortCheckBox.UseVisualStyleBackColor = true;
+            this.ComfortCheckBox.CheckedChanged += new System.EventHandler(this.ComfortCheckBox_CheckedChanged);
+            // 
             // ParkingCheckBox
             // 
             this.ParkingCheckBox.AutoSize = true;
@@ -123,7 +171,7 @@ namespace IS_Lab_1
             // CountOfRoomsComboBox
             // 
             this.CountOfRoomsComboBox.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.CountOfRoomsComboBox.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.CountOfRoomsComboBox.ForeColor = System.Drawing.SystemColors.MenuText;
             this.CountOfRoomsComboBox.FormattingEnabled = true;
             this.CountOfRoomsComboBox.Items.AddRange(new object[] {
             "1",
@@ -133,6 +181,7 @@ namespace IS_Lab_1
             ">4"});
             this.CountOfRoomsComboBox.Location = new System.Drawing.Point(332, 121);
             this.CountOfRoomsComboBox.Name = "CountOfRoomsComboBox";
+            this.CountOfRoomsComboBox.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.CountOfRoomsComboBox.Size = new System.Drawing.Size(211, 29);
             this.CountOfRoomsComboBox.TabIndex = 13;
             this.CountOfRoomsComboBox.Text = "Укажите количество комнат...";
@@ -141,13 +190,14 @@ namespace IS_Lab_1
             // LocationComboBox
             // 
             this.LocationComboBox.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.LocationComboBox.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.LocationComboBox.ForeColor = System.Drawing.SystemColors.MenuText;
             this.LocationComboBox.FormattingEnabled = true;
             this.LocationComboBox.Items.AddRange(new object[] {
             "В городе",
             "За городом"});
             this.LocationComboBox.Location = new System.Drawing.Point(332, 294);
             this.LocationComboBox.Name = "LocationComboBox";
+            this.LocationComboBox.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.LocationComboBox.Size = new System.Drawing.Size(211, 29);
             this.LocationComboBox.TabIndex = 14;
             this.LocationComboBox.Text = "Укажите расположение...";
@@ -156,7 +206,7 @@ namespace IS_Lab_1
             // FloorComboBox
             // 
             this.FloorComboBox.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.FloorComboBox.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.FloorComboBox.ForeColor = System.Drawing.SystemColors.MenuText;
             this.FloorComboBox.FormattingEnabled = true;
             this.FloorComboBox.Items.AddRange(new object[] {
             "Первый этаж",
@@ -164,6 +214,7 @@ namespace IS_Lab_1
             "Последний этаж"});
             this.FloorComboBox.Location = new System.Drawing.Point(332, 206);
             this.FloorComboBox.Name = "FloorComboBox";
+            this.FloorComboBox.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.FloorComboBox.Size = new System.Drawing.Size(211, 29);
             this.FloorComboBox.TabIndex = 15;
             this.FloorComboBox.Text = "Укажите этаж...";
@@ -173,7 +224,7 @@ namespace IS_Lab_1
             // MaterialsComboBox
             // 
             this.MaterialsComboBox.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.MaterialsComboBox.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.MaterialsComboBox.ForeColor = System.Drawing.SystemColors.MenuText;
             this.MaterialsComboBox.FormattingEnabled = true;
             this.MaterialsComboBox.Items.AddRange(new object[] {
             "Панельный",
@@ -181,6 +232,7 @@ namespace IS_Lab_1
             "Монолитный"});
             this.MaterialsComboBox.Location = new System.Drawing.Point(332, 44);
             this.MaterialsComboBox.Name = "MaterialsComboBox";
+            this.MaterialsComboBox.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.MaterialsComboBox.Size = new System.Drawing.Size(211, 29);
             this.MaterialsComboBox.TabIndex = 12;
             this.MaterialsComboBox.Text = "Укажите тип постройки...";
@@ -199,13 +251,14 @@ namespace IS_Lab_1
             // InfastuctureComboBox
             // 
             this.InfastuctureComboBox.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.InfastuctureComboBox.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.InfastuctureComboBox.ForeColor = System.Drawing.SystemColors.MenuText;
             this.InfastuctureComboBox.FormattingEnabled = true;
             this.InfastuctureComboBox.Items.AddRange(new object[] {
             "Развитая",
             "Неразвитая"});
             this.InfastuctureComboBox.Location = new System.Drawing.Point(21, 294);
             this.InfastuctureComboBox.Name = "InfastuctureComboBox";
+            this.InfastuctureComboBox.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.InfastuctureComboBox.Size = new System.Drawing.Size(211, 29);
             this.InfastuctureComboBox.TabIndex = 11;
             this.InfastuctureComboBox.Text = "Укажите инфраструктуру...";
@@ -234,7 +287,7 @@ namespace IS_Lab_1
             // YearsComboBox
             // 
             this.YearsComboBox.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.YearsComboBox.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.YearsComboBox.ForeColor = System.Drawing.SystemColors.MenuText;
             this.YearsComboBox.FormattingEnabled = true;
             this.YearsComboBox.Items.AddRange(new object[] {
             "Еще строится",
@@ -244,6 +297,7 @@ namespace IS_Lab_1
             "больше 30 лет"});
             this.YearsComboBox.Location = new System.Drawing.Point(21, 206);
             this.YearsComboBox.Name = "YearsComboBox";
+            this.YearsComboBox.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.YearsComboBox.Size = new System.Drawing.Size(211, 29);
             this.YearsComboBox.TabIndex = 10;
             this.YearsComboBox.Text = "Укажите возраст здания...";
@@ -252,7 +306,7 @@ namespace IS_Lab_1
             // SquareComboBox
             // 
             this.SquareComboBox.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.SquareComboBox.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.SquareComboBox.ForeColor = System.Drawing.SystemColors.MenuText;
             this.SquareComboBox.FormattingEnabled = true;
             this.SquareComboBox.Items.AddRange(new object[] {
             "< 50",
@@ -260,6 +314,7 @@ namespace IS_Lab_1
             "> 100"});
             this.SquareComboBox.Location = new System.Drawing.Point(21, 121);
             this.SquareComboBox.Name = "SquareComboBox";
+            this.SquareComboBox.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.SquareComboBox.Size = new System.Drawing.Size(211, 29);
             this.SquareComboBox.TabIndex = 9;
             this.SquareComboBox.Text = "Укажите площадь...";
@@ -268,7 +323,7 @@ namespace IS_Lab_1
             // PriceComboBox
             // 
             this.PriceComboBox.Font = new System.Drawing.Font("Calibri", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.PriceComboBox.ForeColor = System.Drawing.SystemColors.ScrollBar;
+            this.PriceComboBox.ForeColor = System.Drawing.SystemColors.MenuText;
             this.PriceComboBox.FormattingEnabled = true;
             this.PriceComboBox.Items.AddRange(new object[] {
             "1000000 <",
@@ -277,6 +332,7 @@ namespace IS_Lab_1
             "> 3000000"});
             this.PriceComboBox.Location = new System.Drawing.Point(21, 44);
             this.PriceComboBox.Name = "PriceComboBox";
+            this.PriceComboBox.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.PriceComboBox.Size = new System.Drawing.Size(211, 29);
             this.PriceComboBox.TabIndex = 8;
             this.PriceComboBox.Text = "Укажите бюджет...";
@@ -331,54 +387,6 @@ namespace IS_Lab_1
             this.ChoosePriceLabel.Size = new System.Drawing.Size(77, 24);
             this.ChoosePriceLabel.TabIndex = 0;
             this.ChoosePriceLabel.Text = "Бюджет";
-            // 
-            // ComfortCheckBox
-            // 
-            this.ComfortCheckBox.AutoSize = true;
-            this.ComfortCheckBox.Font = new System.Drawing.Font("Calibri", 12F);
-            this.ComfortCheckBox.Location = new System.Drawing.Point(643, 168);
-            this.ComfortCheckBox.Name = "ComfortCheckBox";
-            this.ComfortCheckBox.Size = new System.Drawing.Size(177, 28);
-            this.ComfortCheckBox.TabIndex = 17;
-            this.ComfortCheckBox.Text = "Наличие удобств";
-            this.ComfortCheckBox.UseVisualStyleBackColor = true;
-            this.ComfortCheckBox.CheckedChanged += new System.EventHandler(this.ComfortCheckBox_CheckedChanged);
-            // 
-            // ViewCheckBox
-            // 
-            this.ViewCheckBox.AutoSize = true;
-            this.ViewCheckBox.Font = new System.Drawing.Font("Calibri", 12F);
-            this.ViewCheckBox.Location = new System.Drawing.Point(643, 230);
-            this.ViewCheckBox.Name = "ViewCheckBox";
-            this.ViewCheckBox.Size = new System.Drawing.Size(154, 28);
-            this.ViewCheckBox.TabIndex = 18;
-            this.ViewCheckBox.Text = "Красивый вид";
-            this.ViewCheckBox.UseVisualStyleBackColor = true;
-            this.ViewCheckBox.CheckedChanged += new System.EventHandler(this.ViewCheckBox_CheckedChanged);
-            // 
-            // TransportСheckBox
-            // 
-            this.TransportСheckBox.AutoSize = true;
-            this.TransportСheckBox.Font = new System.Drawing.Font("Calibri", 12F);
-            this.TransportСheckBox.Location = new System.Drawing.Point(643, 292);
-            this.TransportСheckBox.Name = "TransportСheckBox";
-            this.TransportСheckBox.Size = new System.Drawing.Size(260, 28);
-            this.TransportСheckBox.TabIndex = 19;
-            this.TransportСheckBox.Text = "Транспортная доступность";
-            this.TransportСheckBox.UseVisualStyleBackColor = true;
-            this.TransportСheckBox.CheckedChanged += new System.EventHandler(this.TransportСheckBox_CheckedChanged);
-            // 
-            // NewOrOldcheckBox
-            // 
-            this.NewOrOldcheckBox.AutoSize = true;
-            this.NewOrOldcheckBox.Font = new System.Drawing.Font("Calibri", 12F);
-            this.NewOrOldcheckBox.Location = new System.Drawing.Point(643, 44);
-            this.NewOrOldcheckBox.Name = "NewOrOldcheckBox";
-            this.NewOrOldcheckBox.Size = new System.Drawing.Size(144, 28);
-            this.NewOrOldcheckBox.TabIndex = 20;
-            this.NewOrOldcheckBox.Text = "Новостройка";
-            this.NewOrOldcheckBox.UseVisualStyleBackColor = false;
-            this.NewOrOldcheckBox.CheckedChanged += new System.EventHandler(this.NewOrOldcheckBox_CheckedChanged);
             // 
             // FindApartmentForm
             // 

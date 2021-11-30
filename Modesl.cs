@@ -63,23 +63,9 @@ namespace IS_Lab_1
 	[System.Serializable]
 	public class RealEstate
 	{
-
 		public int Price { get; set; }
 		public string Adress { get; set; }
 		public string Location { get; set; }
 		public int Square { get; set; }
-	}
-	public enum HouseMaterials
-	{
-		BlockHouse,
-		WoodenHouse,
-		BrickHouse
-	}
-
-	public enum Comunication
-	{
-		good,
-		normal,
-		bad
 	}
 }

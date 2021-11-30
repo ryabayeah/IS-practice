@@ -66,7 +66,7 @@ namespace IS_Lab_1
 					richTextBox1.Text += "Площадь: " + res.GeneralCharacteristics.Square + " кв. м." + "\n";
 					richTextBox1.Text += "Количество этажей: " + res.Floors + "\n";
 					richTextBox1.Text += "Удобства: " + res.Comfort + "\n";
-					richTextBox1.Text += "Комуникация: " + res.Comunication  + "\n";
+					richTextBox1.Text += "Коммуникация: " + res.Comunication  + "\n";
 					richTextBox1.Text += "Транспортная доступность: " + res.TransportAccessibility + "\n";
 					richTextBox1.Text += "Тип дома: " + res.TypeOfHouse + "\n";
 					richTextBox1.Text += "...\n";
